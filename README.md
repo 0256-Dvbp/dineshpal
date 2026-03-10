@@ -17,4 +17,5 @@ Automation testing frameworks and improving test coverage.
 
 🔹 Contact
 Email: paldinesh65@gmail.com
-LinkedIn: ww.linkedin.com/in/dinesh-pal-754b0ba4
+
+LinkedIn: www.linkedin.com/in/dinesh-pal-754b0ba4
